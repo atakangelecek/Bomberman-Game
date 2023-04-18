@@ -1,0 +1,527 @@
+IN pid:7589 mid:0 bomber start.
+OUT pid:7589 mid:0 bomber new location:(19, 67).
+IN pid:7588 mid:0 bomber start.
+OUT pid:7588 mid:0 bomber new location:(73, 15).
+IN pid:7589 mid:1 bomber see.
+OUT pid:7589 mid:1 bomber vision object count:0.
+IN pid:7581 mid:0 bomber start.
+OUT pid:7581 mid:0 bomber new location:(35, 70).
+IN pid:7588 mid:1 bomber see.
+OUT pid:7588 mid:1 bomber vision object count:0.
+IN pid:7581 mid:1 bomber see.
+OUT pid:7581 mid:1 bomber vision object count:0.
+IN pid:7590 mid:0 bomber start.
+OUT pid:7590 mid:0 bomber new location:(50, 67).
+IN pid:7586 mid:0 bomber start.
+OUT pid:7586 mid:0 bomber new location:(6, 52).
+IN pid:7590 mid:1 bomber see.
+OUT pid:7590 mid:1 bomber vision object count:0.
+IN pid:7583 mid:0 bomber start.
+OUT pid:7583 mid:0 bomber new location:(30, 30).
+IN pid:7584 mid:0 bomber start.
+OUT pid:7584 mid:0 bomber new location:(79, 0).
+IN pid:7585 mid:0 bomber start.
+OUT pid:7585 mid:0 bomber new location:(95, 71).
+IN pid:7586 mid:1 bomber see.
+OUT pid:7586 mid:1 bomber vision object count:0.
+IN pid:7587 mid:0 bomber start.
+OUT pid:7587 mid:0 bomber new location:(10, 70).
+IN pid:7583 mid:1 bomber see.
+OUT pid:7583 mid:1 bomber vision object count:0.
+IN pid:7584 mid:1 bomber see.
+OUT pid:7584 mid:1 bomber vision object count:0.
+IN pid:7585 mid:1 bomber see.
+OUT pid:7585 mid:1 bomber vision object count:0.
+IN pid:7587 mid:1 bomber see.
+OUT pid:7587 mid:1 bomber vision object count:0.
+IN pid:7582 mid:0 bomber start.
+OUT pid:7582 mid:0 bomber new location:(88, 50).
+IN pid:7582 mid:1 bomber see.
+OUT pid:7582 mid:1 bomber vision object count:0.
+IN pid:7589 mid:2 bomber move target:(20, 67).
+OUT pid:7589 mid:0 bomber new location:(20, 67).
+IN pid:7588 mid:2 bomber move target:(74, 15).
+OUT pid:7588 mid:0 bomber new location:(74, 15).
+IN pid:7581 mid:2 bomber move target:(36, 70).
+OUT pid:7581 mid:0 bomber new location:(36, 70).
+IN pid:7590 mid:2 bomber move target:(51, 67).
+OUT pid:7590 mid:0 bomber new location:(51, 67).
+IN pid:7586 mid:2 bomber move target:(7, 52).
+OUT pid:7586 mid:0 bomber new location:(7, 52).
+IN pid:7583 mid:2 bomber move target:(31, 30).
+OUT pid:7583 mid:0 bomber new location:(31, 30).
+IN pid:7584 mid:2 bomber move target:(80, 0).
+OUT pid:7584 mid:0 bomber new location:(80, 0).
+IN pid:7585 mid:2 bomber move target:(96, 71).
+OUT pid:7585 mid:0 bomber new location:(96, 71).
+IN pid:7587 mid:2 bomber move target:(11, 70).
+OUT pid:7587 mid:0 bomber new location:(11, 70).
+IN pid:7582 mid:2 bomber move target:(89, 50).
+OUT pid:7582 mid:0 bomber new location:(89, 50).
+IN pid:7589 mid:2 bomber move target:(21, 67).
+OUT pid:7589 mid:0 bomber new location:(21, 67).
+IN pid:7588 mid:2 bomber move target:(75, 15).
+OUT pid:7588 mid:0 bomber new location:(75, 15).
+IN pid:7581 mid:2 bomber move target:(37, 70).
+OUT pid:7581 mid:0 bomber new location:(37, 70).
+IN pid:7590 mid:2 bomber move target:(52, 67).
+OUT pid:7590 mid:0 bomber new location:(52, 67).
+IN pid:7586 mid:2 bomber move target:(8, 52).
+OUT pid:7586 mid:0 bomber new location:(8, 52).
+IN pid:7583 mid:2 bomber move target:(32, 30).
+OUT pid:7583 mid:0 bomber new location:(32, 30).
+IN pid:7584 mid:2 bomber move target:(81, 0).
+OUT pid:7584 mid:0 bomber new location:(81, 0).
+IN pid:7585 mid:2 bomber move target:(97, 71).
+OUT pid:7585 mid:0 bomber new location:(97, 71).
+IN pid:7587 mid:2 bomber move target:(12, 70).
+OUT pid:7587 mid:0 bomber new location:(12, 70).
+IN pid:7582 mid:2 bomber move target:(90, 50).
+OUT pid:7582 mid:0 bomber new location:(90, 50).
+IN pid:7589 mid:2 bomber move target:(22, 67).
+OUT pid:7589 mid:0 bomber new location:(22, 67).
+IN pid:7588 mid:2 bomber move target:(76, 15).
+OUT pid:7588 mid:0 bomber new location:(76, 15).
+IN pid:7581 mid:2 bomber move target:(38, 70).
+OUT pid:7581 mid:0 bomber new location:(38, 70).
+IN pid:7590 mid:2 bomber move target:(53, 67).
+OUT pid:7590 mid:0 bomber new location:(53, 67).
+IN pid:7586 mid:2 bomber move target:(9, 52).
+OUT pid:7586 mid:0 bomber new location:(9, 52).
+IN pid:7583 mid:2 bomber move target:(33, 30).
+OUT pid:7583 mid:0 bomber new location:(33, 30).
+IN pid:7584 mid:2 bomber move target:(82, 0).
+OUT pid:7584 mid:0 bomber new location:(82, 0).
+IN pid:7585 mid:2 bomber move target:(98, 71).
+OUT pid:7585 mid:0 bomber new location:(98, 71).
+IN pid:7587 mid:2 bomber move target:(13, 70).
+OUT pid:7587 mid:0 bomber new location:(13, 70).
+IN pid:7582 mid:2 bomber move target:(91, 50).
+OUT pid:7582 mid:0 bomber new location:(91, 50).
+IN pid:7588 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7588 mid:2 bomber plant bomb result:1.
+IN pid:7589 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7589 mid:2 bomber plant bomb result:1.
+IN pid:7581 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7581 mid:2 bomber plant bomb result:1.
+IN pid:7590 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7590 mid:2 bomber plant bomb result:1.
+IN pid:7583 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7583 mid:2 bomber plant bomb result:1.
+IN pid:7584 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7584 mid:2 bomber plant bomb result:1.
+IN pid:7585 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7585 mid:2 bomber plant bomb result:1.
+IN pid:7586 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7586 mid:2 bomber plant bomb result:1.
+IN pid:7587 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7587 mid:2 bomber plant bomb result:1.
+IN pid:7582 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7582 mid:2 bomber plant bomb result:1.
+IN pid:7588 mid:1 bomber see.
+OUT pid:7588 mid:1 bomber vision object count:1.
+object1 position:(76,15) type:1.
+IN pid:7589 mid:1 bomber see.
+OUT pid:7589 mid:1 bomber vision object count:1.
+object1 position:(22,67) type:1.
+IN pid:7581 mid:1 bomber see.
+OUT pid:7581 mid:1 bomber vision object count:1.
+object1 position:(38,70) type:1.
+IN pid:7590 mid:1 bomber see.
+OUT pid:7590 mid:1 bomber vision object count:1.
+object1 position:(53,67) type:1.
+IN pid:7583 mid:1 bomber see.
+OUT pid:7583 mid:1 bomber vision object count:1.
+object1 position:(33,30) type:1.
+IN pid:7584 mid:1 bomber see.
+OUT pid:7584 mid:1 bomber vision object count:1.
+object1 position:(82,0) type:1.
+IN pid:7585 mid:1 bomber see.
+OUT pid:7585 mid:1 bomber vision object count:1.
+object1 position:(98,71) type:1.
+IN pid:7586 mid:1 bomber see.
+OUT pid:7586 mid:1 bomber vision object count:1.
+object1 position:(9,52) type:1.
+IN pid:7587 mid:1 bomber see.
+OUT pid:7587 mid:1 bomber vision object count:1.
+object1 position:(13,70) type:1.
+IN pid:7582 mid:1 bomber see.
+OUT pid:7582 mid:1 bomber vision object count:1.
+object1 position:(91,50) type:1.
+IN pid:7588 mid:2 bomber move target:(77, 15).
+OUT pid:7588 mid:0 bomber new location:(77, 15).
+IN pid:7589 mid:2 bomber move target:(23, 67).
+OUT pid:7589 mid:0 bomber new location:(23, 67).
+IN pid:7581 mid:2 bomber move target:(39, 70).
+OUT pid:7581 mid:0 bomber new location:(39, 70).
+IN pid:7590 mid:2 bomber move target:(54, 67).
+OUT pid:7590 mid:0 bomber new location:(54, 67).
+IN pid:7583 mid:2 bomber move target:(34, 30).
+OUT pid:7583 mid:0 bomber new location:(34, 30).
+IN pid:7584 mid:2 bomber move target:(83, 0).
+OUT pid:7584 mid:0 bomber new location:(83, 0).
+IN pid:7585 mid:2 bomber move target:(98, 70).
+OUT pid:7585 mid:0 bomber new location:(98, 70).
+IN pid:7586 mid:2 bomber move target:(10, 52).
+OUT pid:7586 mid:0 bomber new location:(10, 52).
+IN pid:7587 mid:2 bomber move target:(14, 70).
+OUT pid:7587 mid:0 bomber new location:(14, 70).
+IN pid:7582 mid:2 bomber move target:(92, 50).
+OUT pid:7582 mid:0 bomber new location:(92, 50).
+IN pid:7588 mid:2 bomber move target:(78, 15).
+OUT pid:7588 mid:0 bomber new location:(78, 15).
+IN pid:7589 mid:2 bomber move target:(24, 67).
+OUT pid:7589 mid:0 bomber new location:(24, 67).
+IN pid:7581 mid:2 bomber move target:(40, 70).
+OUT pid:7581 mid:0 bomber new location:(40, 70).
+IN pid:7590 mid:2 bomber move target:(55, 67).
+OUT pid:7590 mid:0 bomber new location:(55, 67).
+IN pid:7583 mid:2 bomber move target:(35, 30).
+OUT pid:7583 mid:0 bomber new location:(35, 30).
+IN pid:7584 mid:2 bomber move target:(84, 0).
+OUT pid:7584 mid:0 bomber new location:(84, 0).
+IN pid:7585 mid:2 bomber move target:(98, 69).
+OUT pid:7585 mid:0 bomber new location:(98, 69).
+IN pid:7586 mid:2 bomber move target:(11, 52).
+OUT pid:7586 mid:0 bomber new location:(11, 52).
+IN pid:7587 mid:2 bomber move target:(15, 70).
+OUT pid:7587 mid:0 bomber new location:(15, 70).
+IN pid:7582 mid:2 bomber move target:(93, 50).
+OUT pid:7582 mid:0 bomber new location:(93, 50).
+IN pid:7588 mid:2 bomber move target:(79, 15).
+OUT pid:7588 mid:0 bomber new location:(79, 15).
+IN pid:7589 mid:2 bomber move target:(25, 67).
+OUT pid:7589 mid:0 bomber new location:(25, 67).
+IN pid:7581 mid:2 bomber move target:(41, 70).
+OUT pid:7581 mid:0 bomber new location:(41, 70).
+IN pid:7590 mid:2 bomber move target:(56, 67).
+OUT pid:7590 mid:0 bomber new location:(56, 67).
+IN pid:7583 mid:2 bomber move target:(36, 30).
+OUT pid:7583 mid:0 bomber new location:(36, 30).
+IN pid:7584 mid:2 bomber move target:(85, 0).
+OUT pid:7584 mid:0 bomber new location:(85, 0).
+IN pid:7585 mid:2 bomber move target:(98, 68).
+OUT pid:7585 mid:0 bomber new location:(98, 68).
+IN pid:7586 mid:2 bomber move target:(12, 52).
+OUT pid:7586 mid:0 bomber new location:(12, 52).
+IN pid:7587 mid:2 bomber move target:(16, 70).
+OUT pid:7587 mid:0 bomber new location:(16, 70).
+IN pid:7582 mid:2 bomber move target:(94, 50).
+OUT pid:7582 mid:0 bomber new location:(94, 50).
+IN pid:7588 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7588 mid:2 bomber plant bomb result:1.
+IN pid:7589 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7589 mid:2 bomber plant bomb result:1.
+IN pid:7581 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7581 mid:2 bomber plant bomb result:1.
+IN pid:7590 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7590 mid:2 bomber plant bomb result:1.
+IN pid:7583 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7583 mid:2 bomber plant bomb result:1.
+IN pid:7584 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7584 mid:2 bomber plant bomb result:1.
+IN pid:7585 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7585 mid:2 bomber plant bomb result:1.
+IN pid:7586 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7586 mid:2 bomber plant bomb result:1.
+IN pid:7587 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7587 mid:2 bomber plant bomb result:1.
+IN pid:7582 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7582 mid:2 bomber plant bomb result:1.
+IN pid:7602 mid:4 bomb explode.
+IN pid:7600 mid:4 bomb explode.
+IN pid:7588 mid:1 bomber see.
+OUT pid:7588 mid:1 bomber vision object count:2.
+object1 position:(79,15) type:1.
+object2 position:(76,15) type:1.
+IN pid:7589 mid:1 bomber see.
+OUT pid:7589 mid:1 bomber vision object count:2.
+object1 position:(25,67) type:1.
+object2 position:(22,67) type:1.
+IN pid:7581 mid:1 bomber see.
+OUT pid:7581 mid:1 bomber vision object count:2.
+object1 position:(41,70) type:1.
+object2 position:(38,70) type:1.
+IN pid:7590 mid:1 bomber see.
+OUT pid:7590 mid:1 bomber vision object count:2.
+object1 position:(56,67) type:1.
+object2 position:(53,67) type:1.
+IN pid:7583 mid:1 bomber see.
+OUT pid:7583 mid:1 bomber vision object count:2.
+object1 position:(36,30) type:1.
+object2 position:(33,30) type:1.
+IN pid:7584 mid:1 bomber see.
+OUT pid:7584 mid:1 bomber vision object count:2.
+object1 position:(85,0) type:1.
+object2 position:(82,0) type:1.
+IN pid:7585 mid:1 bomber see.
+OUT pid:7585 mid:3 bomber died.
+IN pid:7586 mid:1 bomber see.
+OUT pid:7586 mid:1 bomber vision object count:2.
+object1 position:(12,52) type:1.
+object2 position:(9,52) type:1.
+IN pid:7587 mid:1 bomber see.
+OUT pid:7587 mid:3 bomber died.
+IN pid:7582 mid:1 bomber see.
+OUT pid:7582 mid:1 bomber vision object count:2.
+object1 position:(94,50) type:1.
+object2 position:(91,50) type:1.
+IN pid:7588 mid:2 bomber move target:(80, 15).
+OUT pid:7588 mid:0 bomber new location:(80, 15).
+IN pid:7589 mid:2 bomber move target:(26, 67).
+OUT pid:7589 mid:0 bomber new location:(26, 67).
+IN pid:7581 mid:2 bomber move target:(42, 70).
+OUT pid:7581 mid:0 bomber new location:(42, 70).
+IN pid:7590 mid:2 bomber move target:(57, 67).
+OUT pid:7590 mid:0 bomber new location:(57, 67).
+IN pid:7583 mid:2 bomber move target:(37, 30).
+OUT pid:7583 mid:0 bomber new location:(37, 30).
+IN pid:7584 mid:2 bomber move target:(86, 0).
+OUT pid:7584 mid:0 bomber new location:(86, 0).
+IN pid:7586 mid:2 bomber move target:(13, 52).
+OUT pid:7586 mid:0 bomber new location:(13, 52).
+IN pid:7582 mid:2 bomber move target:(95, 50).
+OUT pid:7582 mid:0 bomber new location:(95, 50).
+IN pid:7588 mid:2 bomber move target:(81, 15).
+OUT pid:7588 mid:0 bomber new location:(81, 15).
+IN pid:7589 mid:2 bomber move target:(27, 67).
+OUT pid:7589 mid:0 bomber new location:(27, 67).
+IN pid:7581 mid:2 bomber move target:(43, 70).
+OUT pid:7581 mid:0 bomber new location:(43, 70).
+IN pid:7590 mid:2 bomber move target:(58, 67).
+OUT pid:7590 mid:0 bomber new location:(58, 67).
+IN pid:7583 mid:2 bomber move target:(38, 30).
+OUT pid:7583 mid:0 bomber new location:(38, 30).
+IN pid:7584 mid:2 bomber move target:(87, 0).
+OUT pid:7584 mid:0 bomber new location:(87, 0).
+IN pid:7586 mid:2 bomber move target:(14, 52).
+OUT pid:7586 mid:0 bomber new location:(14, 52).
+IN pid:7582 mid:2 bomber move target:(96, 50).
+OUT pid:7582 mid:0 bomber new location:(96, 50).
+IN pid:7588 mid:2 bomber move target:(82, 15).
+OUT pid:7588 mid:0 bomber new location:(82, 15).
+IN pid:7589 mid:2 bomber move target:(28, 67).
+OUT pid:7589 mid:0 bomber new location:(28, 67).
+IN pid:7581 mid:2 bomber move target:(44, 70).
+OUT pid:7581 mid:0 bomber new location:(44, 70).
+IN pid:7590 mid:2 bomber move target:(59, 67).
+OUT pid:7590 mid:0 bomber new location:(59, 67).
+IN pid:7583 mid:2 bomber move target:(39, 30).
+OUT pid:7583 mid:0 bomber new location:(39, 30).
+IN pid:7584 mid:2 bomber move target:(88, 0).
+OUT pid:7584 mid:0 bomber new location:(88, 0).
+IN pid:7586 mid:2 bomber move target:(15, 52).
+OUT pid:7586 mid:0 bomber new location:(15, 52).
+IN pid:7582 mid:2 bomber move target:(97, 50).
+OUT pid:7582 mid:0 bomber new location:(97, 50).
+IN pid:7588 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7588 mid:2 bomber plant bomb result:1.
+IN pid:7589 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7589 mid:2 bomber plant bomb result:1.
+IN pid:7581 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7581 mid:2 bomber plant bomb result:1.
+IN pid:7590 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7590 mid:2 bomber plant bomb result:1.
+IN pid:7583 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7583 mid:2 bomber plant bomb result:1.
+IN pid:7584 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7584 mid:2 bomber plant bomb result:1.
+IN pid:7586 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7586 mid:2 bomber plant bomb result:1.
+IN pid:7582 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7582 mid:2 bomber plant bomb result:1.
+IN pid:7605 mid:4 bomb explode.
+IN pid:7608 mid:4 bomb explode.
+IN pid:7612 mid:4 bomb explode.
+IN pid:7588 mid:1 bomber see.
+OUT pid:7588 mid:1 bomber vision object count:2.
+object1 position:(82,15) type:1.
+object2 position:(79,15) type:1.
+IN pid:7589 mid:1 bomber see.
+OUT pid:7589 mid:3 bomber died.
+IN pid:7590 mid:1 bomber see.
+OUT pid:7590 mid:1 bomber vision object count:2.
+object1 position:(59,67) type:1.
+object2 position:(56,67) type:1.
+IN pid:7581 mid:1 bomber see.
+OUT pid:7581 mid:1 bomber vision object count:2.
+object1 position:(44,70) type:1.
+object2 position:(41,70) type:1.
+IN pid:7583 mid:1 bomber see.
+OUT pid:7583 mid:3 bomber died.
+IN pid:7584 mid:1 bomber see.
+OUT pid:7584 mid:1 bomber vision object count:2.
+object1 position:(88,0) type:1.
+object2 position:(85,0) type:1.
+IN pid:7586 mid:1 bomber see.
+OUT pid:7586 mid:1 bomber vision object count:2.
+object1 position:(15,52) type:1.
+object2 position:(12,52) type:1.
+IN pid:7582 mid:1 bomber see.
+OUT pid:7582 mid:1 bomber vision object count:2.
+object1 position:(97,50) type:1.
+object2 position:(94,50) type:1.
+IN pid:7588 mid:2 bomber move target:(82, 14).
+OUT pid:7588 mid:0 bomber new location:(82, 14).
+IN pid:7590 mid:2 bomber move target:(59, 66).
+OUT pid:7590 mid:0 bomber new location:(59, 66).
+IN pid:7581 mid:2 bomber move target:(44, 69).
+OUT pid:7581 mid:0 bomber new location:(44, 69).
+IN pid:7584 mid:2 bomber move target:(87, 0).
+OUT pid:7584 mid:0 bomber new location:(87, 0).
+IN pid:7586 mid:2 bomber move target:(15, 51).
+OUT pid:7586 mid:0 bomber new location:(15, 51).
+IN pid:7582 mid:2 bomber move target:(97, 49).
+OUT pid:7582 mid:0 bomber new location:(97, 49).
+IN pid:7588 mid:2 bomber move target:(82, 13).
+OUT pid:7588 mid:0 bomber new location:(82, 13).
+IN pid:7590 mid:2 bomber move target:(59, 65).
+OUT pid:7590 mid:0 bomber new location:(59, 65).
+IN pid:7581 mid:2 bomber move target:(44, 68).
+OUT pid:7581 mid:0 bomber new location:(44, 68).
+IN pid:7584 mid:2 bomber move target:(86, 0).
+OUT pid:7584 mid:0 bomber new location:(86, 0).
+IN pid:7586 mid:2 bomber move target:(15, 50).
+OUT pid:7586 mid:0 bomber new location:(15, 50).
+IN pid:7582 mid:2 bomber move target:(97, 48).
+OUT pid:7582 mid:0 bomber new location:(97, 48).
+IN pid:7588 mid:2 bomber move target:(82, 12).
+OUT pid:7588 mid:0 bomber new location:(82, 12).
+IN pid:7590 mid:2 bomber move target:(59, 64).
+OUT pid:7590 mid:0 bomber new location:(59, 64).
+IN pid:7581 mid:2 bomber move target:(44, 67).
+OUT pid:7581 mid:0 bomber new location:(44, 67).
+IN pid:7584 mid:2 bomber move target:(85, 0).
+OUT pid:7584 mid:0 bomber new location:(85, 0).
+IN pid:7586 mid:2 bomber move target:(15, 49).
+OUT pid:7586 mid:0 bomber new location:(15, 49).
+IN pid:7582 mid:2 bomber move target:(97, 47).
+OUT pid:7582 mid:0 bomber new location:(97, 47).
+IN pid:7588 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7588 mid:2 bomber plant bomb result:1.
+IN pid:7590 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7590 mid:2 bomber plant bomb result:1.
+IN pid:7581 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7581 mid:2 bomber plant bomb result:1.
+IN pid:7584 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7584 mid:2 bomber plant bomb result:0.
+IN pid:7586 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7586 mid:2 bomber plant bomb result:1.
+IN pid:7582 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7582 mid:2 bomber plant bomb result:1.
+IN pid:7615 mid:4 bomb explode.
+IN pid:7614 mid:4 bomb explode.
+IN pid:7619 mid:4 bomb explode.
+IN pid:7620 mid:4 bomb explode.
+IN pid:7588 mid:1 bomber see.
+OUT pid:7588 mid:3 bomber died.
+IN pid:7590 mid:1 bomber see.
+OUT pid:7590 mid:1 bomber vision object count:2.
+object1 position:(59,64) type:1.
+object2 position:(59,67) type:1.
+IN pid:7581 mid:1 bomber see.
+OUT pid:7581 mid:1 bomber vision object count:2.
+object1 position:(44,67) type:1.
+object2 position:(44,70) type:1.
+IN pid:7584 mid:1 bomber see.
+OUT pid:7584 mid:3 bomber died.
+IN pid:7586 mid:1 bomber see.
+OUT pid:7586 mid:3 bomber died.
+IN pid:7582 mid:1 bomber see.
+OUT pid:7582 mid:1 bomber vision object count:2.
+object1 position:(97,47) type:1.
+object2 position:(97,50) type:1.
+IN pid:7590 mid:2 bomber move target:(58, 64).
+OUT pid:7590 mid:0 bomber new location:(58, 64).
+IN pid:7581 mid:2 bomber move target:(43, 67).
+OUT pid:7581 mid:0 bomber new location:(43, 67).
+IN pid:7582 mid:2 bomber move target:(96, 47).
+OUT pid:7582 mid:0 bomber new location:(96, 47).
+IN pid:7590 mid:2 bomber move target:(57, 64).
+OUT pid:7590 mid:0 bomber new location:(57, 64).
+IN pid:7581 mid:2 bomber move target:(42, 67).
+OUT pid:7581 mid:0 bomber new location:(42, 67).
+IN pid:7582 mid:2 bomber move target:(95, 47).
+OUT pid:7582 mid:0 bomber new location:(95, 47).
+IN pid:7590 mid:2 bomber move target:(56, 64).
+OUT pid:7590 mid:0 bomber new location:(56, 64).
+IN pid:7581 mid:2 bomber move target:(41, 67).
+OUT pid:7581 mid:0 bomber new location:(41, 67).
+IN pid:7582 mid:2 bomber move target:(94, 47).
+OUT pid:7582 mid:0 bomber new location:(94, 47).
+IN pid:7622 mid:4 bomb explode.
+IN pid:7625 mid:4 bomb explode.
+IN pid:7590 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7590 mid:2 bomber plant bomb result:1.
+IN pid:7581 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7581 mid:2 bomber plant bomb result:1.
+IN pid:7582 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7582 mid:2 bomber plant bomb result:1.
+IN pid:7590 mid:1 bomber see.
+OUT pid:7590 mid:1 bomber vision object count:3.
+object1 position:(56,64) type:1.
+object2 position:(56,67) type:1.
+object3 position:(59,64) type:1.
+IN pid:7581 mid:1 bomber see.
+OUT pid:7581 mid:1 bomber vision object count:3.
+object1 position:(41,67) type:1.
+object2 position:(41,70) type:1.
+object3 position:(44,67) type:1.
+IN pid:7582 mid:1 bomber see.
+OUT pid:7582 mid:1 bomber vision object count:3.
+object1 position:(94,47) type:1.
+object2 position:(94,50) type:1.
+object3 position:(97,47) type:1.
+IN pid:7590 mid:2 bomber move target:(56, 65).
+OUT pid:7590 mid:0 bomber new location:(56, 65).
+IN pid:7581 mid:2 bomber move target:(41, 68).
+OUT pid:7581 mid:0 bomber new location:(41, 68).
+IN pid:7582 mid:2 bomber move target:(94, 48).
+OUT pid:7582 mid:0 bomber new location:(94, 48).
+IN pid:7590 mid:2 bomber move target:(56, 66).
+OUT pid:7590 mid:0 bomber new location:(56, 66).
+IN pid:7581 mid:2 bomber move target:(41, 69).
+OUT pid:7581 mid:0 bomber new location:(41, 69).
+IN pid:7582 mid:2 bomber move target:(94, 49).
+OUT pid:7582 mid:0 bomber new location:(94, 49).
+IN pid:7590 mid:2 bomber move target:(56, 67).
+OUT pid:7590 mid:0 bomber new location:(56, 67).
+IN pid:7581 mid:2 bomber move target:(41, 70).
+OUT pid:7581 mid:0 bomber new location:(41, 70).
+IN pid:7582 mid:2 bomber move target:(94, 50).
+OUT pid:7582 mid:0 bomber new location:(94, 50).
+IN pid:7590 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7590 mid:2 bomber plant bomb result:0.
+IN pid:7581 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7581 mid:2 bomber plant bomb result:0.
+IN pid:7629 mid:4 bomb explode.
+IN pid:7582 mid:3 bomber plant bomb interval:2500 radius:3.
+OUT pid:7582 mid:3 bomber died.
+IN pid:7628 mid:4 bomb explode.
+IN pid:7590 mid:1 bomber see.
+OUT pid:7590 mid:4 bomber wins.
+IN pid:7581 mid:1 bomber see.
+OUT pid:7581 mid:3 bomber died.
+IN pid:7594 mid:4 bomb explode.
+IN pid:7595 mid:4 bomb explode.
+IN pid:7596 mid:4 bomb explode.
+IN pid:7597 mid:4 bomb explode.
+IN pid:7598 mid:4 bomb explode.
+IN pid:7599 mid:4 bomb explode.
+IN pid:7601 mid:4 bomb explode.
+IN pid:7603 mid:4 bomb explode.
+IN pid:7604 mid:4 bomb explode.
+IN pid:7606 mid:4 bomb explode.
+IN pid:7607 mid:4 bomb explode.
+IN pid:7609 mid:4 bomb explode.
+IN pid:7610 mid:4 bomb explode.
+IN pid:7611 mid:4 bomb explode.
+IN pid:7613 mid:4 bomb explode.
+IN pid:7616 mid:4 bomb explode.
+IN pid:7617 mid:4 bomb explode.
+IN pid:7618 mid:4 bomb explode.
+IN pid:7621 mid:4 bomb explode.
+IN pid:7623 mid:4 bomb explode.
+IN pid:7624 mid:4 bomb explode.
+IN pid:7626 mid:4 bomb explode.
+IN pid:7627 mid:4 bomb explode.
