@@ -1,1 +1,1 @@
-# Bomberman game controller implementation for the Operating Systems course.
+Bomberman game controller implementation for the Operating Systems course.
